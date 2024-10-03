@@ -35,7 +35,7 @@ const Hero = () => {
                     />
 
                     <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                        Hi! I&apos;m Gourav, a Data Scientist based in India.
+                        Hi! I&apos;m Gourav, a Data Scientist & NextJs Developer based in India.
                     </p>
 
                     <a href="#projects">
@@ -51,4 +51,4 @@ const Hero = () => {
     )
 }
 
-export default Hero
+export default Hero;
